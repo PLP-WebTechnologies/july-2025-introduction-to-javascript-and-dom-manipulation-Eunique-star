@@ -1,0 +1,15 @@
+*{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+
+}
+
+h1, h2, button{
+    margin: 20px 0;
+}
